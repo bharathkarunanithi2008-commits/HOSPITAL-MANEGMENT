@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular background disc -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 A28,28 0 1,0 54,82 A28,28 0 1,0 54,26 Z" />
+    <!-- Medical Cross -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M50,34 h8 v14 h14 v8 h-14 v14 h-8 v-14 h-14 v-8 h14 Z" />
+    <!-- Heartbeat accent -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,54 L46,54 L49,46 L53,60 L57,48 L60,54 L70,54" />
+</vector>
