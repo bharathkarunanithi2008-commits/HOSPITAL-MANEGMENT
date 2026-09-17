@@ -227,3 +227,5 @@ Import the collection described in `docs/postman-testing.md`. Run the automated 
 - Biometric authentication integration.
 - Laboratory report PDF generation and automated prescription dispensing integration.
 - Telemedicine video consultation endpoints via WebRTC.
+- git clone https://github.com/hospital-management/hms-system.git
+  https://aistudio.google.com/apps/27522362-8f3f-46a0-8eef-a7225c4d26c0?project=gen-lang-client-0844301289&showAssistant=true&showCode=true
